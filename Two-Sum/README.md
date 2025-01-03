@@ -37,17 +37,6 @@ Explanation: nums[0] + nums[1] = 2 + 7 = 9
 - **Space Complexity:** \(O(1)\)
 - Checks all possible pairs to find a match.
 
-
-
-## Project Structure
-
-
-.
-├── README.md         # Project documentation
-├── two_sum.py   # Python script containing solutions and test cases
-
-
-
 ## Running the Project
 
 ### Prerequisites
@@ -56,8 +45,8 @@ Explanation: nums[0] + nums[1] = 2 + 7 = 9
 ### Steps
 1. Clone this repository:
 
-   git clone https://github.com/CodeAndChaosDev/leetcode-marathon/tree/master/Two-Sum
-   cd two-sum
+   git clone https://github.com/CodeAndChaosDev/leetcode-marathon/
+   cd leetcode-marathon/two-sum
 
 
 2. Run the test script:
@@ -105,4 +94,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request w
 
 **CodeAndChaos**  
 GitHub: [@CodeAndChaosDev](https://github.com/CodeAndChaosDev)  
-
+Youtube: [@CodeYyChaos](https://www.youtube.com/@CodeYyChaos)

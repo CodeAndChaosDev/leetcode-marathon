@@ -56,7 +56,7 @@ Explanation: nums[0] + nums[1] = 2 + 7 = 9
 ### Steps
 1. Clone this repository:
 
-   git clone https://github.com/yourusername/two-sum
+   git clone https://github.com/CodeAndChaosDev/leetcode-marathon/tree/master/Two-Sum
    cd two-sum
 
 
